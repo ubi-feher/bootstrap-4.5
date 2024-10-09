@@ -21,6 +21,13 @@ body {
 
 .features-container{}
 
+.block-divider {
+    width: 100px;
+    height: 5px;
+    border: 0;
+    background-color:blanchedalmond;
+}
+
 .jumbotron {
     background-color: transparent;
 }
